@@ -199,5 +199,3 @@ const chunk=2;
 console.log("Answer: ");
 smallChunk(array,chunk);
 
-//11)Question:-11.
-//console.log("11)Array Sorting:write function to sort an array of numbers iin ascending or descending order.");
